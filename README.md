@@ -1,4 +1,4 @@
-# circuit_thermopile_A3D01S
+# thermopile_A3D01S
 This repository contains the hardware and software for a non-contact thermometer module using a thermopile sensor.
 
 - The software is based on Circuitpython and can be easily used by simply preparing the corresponding microcontroller board.
